@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"algonquin.cst2335.li000848","l":"ExampleInstrumentedTest"},{"p":"algonquin.cst2335.li000848","l":"ExampleUnitTest"},{"p":"algonquin.cst2335.li000848","l":"MainActivity"}];updateSearchResults();

@@ -3,4 +3,8 @@
     <string name="app_name">靜宜的 Android 實驗室</string>
     <string name="hello_message">哈囉！</string>
     <string name="button_message">我是按鈕</string>
+    <string name="spin_message">旋轉旗幟</string>
+    <string name="button1">按鈕1</string>
+    <string name="button2">按鈕2</string>
+    <string name="button3">按鈕3</string>
 </resources>
